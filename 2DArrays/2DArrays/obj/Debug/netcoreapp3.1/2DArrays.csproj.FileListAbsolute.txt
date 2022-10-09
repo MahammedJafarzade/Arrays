@@ -1,0 +1,13 @@
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.exe
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.deps.json
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.json
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.dev.json
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.dll
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.pdb
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfoInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfo.cs
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.dll
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.pdb
+C:\Users\Orkhan\OneDrive\Desktop\Arrayss\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.genruntimeconfig.cache
